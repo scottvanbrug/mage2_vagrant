@@ -32,6 +32,7 @@ package {[
     'rsync',
     'htop',
     'python',
+    'git',
     'graphviz',
     'mysqltuner',
     'nfs-common',
